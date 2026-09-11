@@ -6,7 +6,7 @@ body {
   max-width: 150px;
   height: auto;
   display: block;
-  margin: 0 auto;   /* samma trick som för containern! */
+  margin: 0 auto;   
 }
 
 a {
@@ -17,6 +17,10 @@ a {
     text-decoration: none; 
     display: inline-block; 
     border-radius: 4px;
+
+    .knapp:hover {
+  background-color: #2980b9;
+}
     
 }
 

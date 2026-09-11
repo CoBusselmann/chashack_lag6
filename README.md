@@ -20,3 +20,5 @@ ska utvecklas mot och sedan experimentera fram hur problemen kan lösas. Jag vil
 Länk till sidan: https://cobusselmann.github.io/chashack_lag6/
 
 Vår sida är en informativ hemsida som beskriver alla gruppens medlemmar. Vi har skapat denna sida på ett hackathon som anordnats av Chas Academy. 
+
+Linkedin: https://lnkd.in/p/e-WeAAJq
